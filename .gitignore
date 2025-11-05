@@ -1,0 +1,15 @@
+*.egg-info/
+*.log
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db
+__pycache__/
+.venv/
+build/
+!deps/
+log/
+secrets/*
+!secrets/.gitkeep
+temp/
+!temp/.gitkeep
