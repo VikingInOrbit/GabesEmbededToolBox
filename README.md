@@ -1,8 +1,8 @@
 # Template
 
 ```cli
-git clone https://github.com/VikingInOrbit/Template.git NameOfProject/
-cd NameOfProject
+git clone https://github.com/VikingInOrbit/GabesEmbededToolBox.git GabesEmbededToolBox/
+cd GabesEmbededToolBox
 git remote rm origin
 ```
 
