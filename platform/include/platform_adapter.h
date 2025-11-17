@@ -3,6 +3,8 @@
 
 #include <stdint.h>
 
+// will reed the platform definision, chek that all used implemetations exsist in platform
+
 // Must be called once at startup
 void Platform_init(void);
 

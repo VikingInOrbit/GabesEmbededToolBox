@@ -1,5 +1,7 @@
 #include <platform_adapter.h>
 
+#define platform = ARDUINO;  //lets the platform adapter witch platform to use
+
 void setup() {
     serialStart(115200);
     dWrite(13, 1);
